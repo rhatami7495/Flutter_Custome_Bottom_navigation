@@ -1,4 +1,4 @@
-# custome_bottom_navigation
+# flutter_custome_bottom_navigation
 
 A new Flutter project.
 
